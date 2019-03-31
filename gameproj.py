@@ -30,8 +30,6 @@ def generate_clues(code,user_guess):
 
 #get clues
 
-
-
 #run gane logic
 
 print("welcome code breaker")
